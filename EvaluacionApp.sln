@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evaluacion 2", "MensajeroApp\Evaluacion 2.csproj", "{361695AE-AA14-45E1-801B-604DC6A962E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evaluacion Model", "MensajeroModel\Evaluacion Model.csproj", "{D33EEE0E-7D2B-4DDB-9635-D489E82C1FCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketsUtils", "SocketsUtils\SocketsUtils.csproj", "{2E409C28-0BBB-4C1A-9F36-7A23FD96F396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{361695AE-AA14-45E1-801B-604DC6A962E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361695AE-AA14-45E1-801B-604DC6A962E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361695AE-AA14-45E1-801B-604DC6A962E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361695AE-AA14-45E1-801B-604DC6A962E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33EEE0E-7D2B-4DDB-9635-D489E82C1FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33EEE0E-7D2B-4DDB-9635-D489E82C1FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33EEE0E-7D2B-4DDB-9635-D489E82C1FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33EEE0E-7D2B-4DDB-9635-D489E82C1FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E409C28-0BBB-4C1A-9F36-7A23FD96F396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E409C28-0BBB-4C1A-9F36-7A23FD96F396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E409C28-0BBB-4C1A-9F36-7A23FD96F396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E409C28-0BBB-4C1A-9F36-7A23FD96F396}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
